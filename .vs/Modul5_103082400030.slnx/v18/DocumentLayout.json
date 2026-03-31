@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{AB53E35C-B357-CE00-5C42-8E3123886A3F}|Modul5_103082400030\\Modul5_103082400030.csproj|solutionrelative:modul5_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB53E35C-B357-CE00-5C42-8E3123886A3F}|Modul5_103082400030\\Modul5_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\modul5_103082400030\\modul5_103082400030\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB53E35C-B357-CE00-5C42-8E3123886A3F}|Modul5_103082400030\\Modul5_103082400030.csproj|solutionrelative:modul5_103082400030\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB53E35C-B357-CE00-5C42-8E3123886A3F}|Modul5_103082400030\\Modul5_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\modul5_103082400030\\modul5_103082400030\\penjumlahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB53E35C-B357-CE00-5C42-8E3123886A3F}|Modul5_103082400030\\Modul5_103082400030.csproj|solutionrelative:modul5_103082400030\\penjumlahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -36,37 +32,23 @@
         },
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\SimpleDataBase.cs",
-              "RelativeDocumentMoniker": "Modul5_103082400030\\SimpleDataBase.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\SimpleDataBase.cs",
-              "RelativeToolTip": "Modul5_103082400030\\SimpleDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:43:31.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Penjumlahan.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\Penjumlahan.cs",
-              "RelativeDocumentMoniker": "Modul5_103082400030\\Penjumlahan.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\Penjumlahan.cs",
-              "RelativeToolTip": "Modul5_103082400030\\Penjumlahan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:42:14.626Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "penjumlahan.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\penjumlahan.cs",
+              "RelativeDocumentMoniker": "Modul5_103082400030\\penjumlahan.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\penjumlahan.cs",
+              "RelativeToolTip": "Modul5_103082400030\\penjumlahan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:37:14.265Z"
             },
             {
               "$type": "Document",
@@ -76,7 +58,7 @@
               "RelativeDocumentMoniker": "Modul5_103082400030\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\Modul5_103082400030\\Modul5_103082400030\\Program.cs",
               "RelativeToolTip": "Modul5_103082400030\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T13:28:15.526Z",
               "EditorCaption": ""
